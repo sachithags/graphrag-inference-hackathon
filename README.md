@@ -5,9 +5,7 @@
 **Team:** Expelliarmus (Solo)
 **Tech Stack:** TigerGraph Savanna, Groq Llama 3.3 70B, ChromaDB, Streamlit
 
-### Quick Links
-- Live Dashboard: [YOUR_NGROK_URL]
-- Demo Video: [YOUR_YOUTUBE_URL]
+### Quick Link
 - Blog Post: [https://dev.to/sachitha_srin_d4fba6/how-graphrag-cut-our-llm-token-costs-by-62-on-indian-pharma-data-43f9]
 
 ### Architecture
