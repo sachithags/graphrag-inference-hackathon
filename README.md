@@ -7,6 +7,7 @@
 
 ### Quick Link
 - Blog Post: [https://dev.to/sachitha_srin_d4fba6/how-graphrag-cut-our-llm-token-costs-by-62-on-indian-pharma-data-43f9]
+- Live Video: [https://www.loom.com/share/d64db4d2cdad448ab5b6a1a565362aad]
 
 ### Architecture
 ![Architecture](architecture.png)
